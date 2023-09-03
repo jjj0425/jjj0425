@@ -8,7 +8,7 @@
 
 
 You're My
-![Visitor Count](https://profile-counter.glitch.me/NeroHin/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jjj0425/count.svg)
 visitor
 
 
