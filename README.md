@@ -2,7 +2,7 @@
 ###
 📫 How to reach me: **s990612a@gmail.com**
 
-: #0A66C2 My linkedin: **www.linkedin.com/in/jjj0425**
+📕 My LinkedIN: **www.linkedin.com/in/jjj0425**
 
 ![ChienChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjj0425&show_icons=true&theme=transparent)
 
