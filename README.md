@@ -1,4 +1,4 @@
-## Hi there, I am ChienChang 👋
+## Hi there, I am JamesJhan 👋
 ###
 📫 How to reach me: **s990612a@gmail.com**
 
