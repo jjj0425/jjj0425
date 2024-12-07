@@ -1,8 +1,10 @@
 ## Hi there, I am JamesJhan 👋
 ###
-📫 How to reach me: **s990612a@gmail.com**
+📫 How to reach me: **chienchang425@gmail.com**
 
 📕 My LinkedIN: **www.linkedin.com/in/jjj0425**
+
+🔗 Personal Website: **https://jameschan.info/**
 
 ![ChienChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjj0425&show_icons=true&theme=transparent)
 
