@@ -9,7 +9,7 @@
 ![ChienChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjj0425&show_icons=true&theme=transparent)
 
 
-You're My
+You're my
 ![Visitor Count](https://profile-counter.glitch.me/jjj0425/count.svg)
 visitor
 
